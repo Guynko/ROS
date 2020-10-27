@@ -1,6 +1,17 @@
 # Robot Operating System
-Guy-Vianney Krakowiak, Baptiste Marlet, Alexandre
+Guy-Vianney Krakowiak, Baptiste Marlet, Alexandre Meunier
 
+
+## Travail réalisé
+
+Nous avons réussi a faire l'ensemble du TP Manipulation.
+
+![Simulation d'obstacle](/IMG/obstacle2.jpg "Notre simulation avec obstacle")
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=CU4Dt2r_PFQ
+ "Robot en mouvement")
+
+## Reponses aux question du TP Manipulation
 
 ### 2.1.1. Comprendre le descripteur URDF
 ##### Que representent les rectangles
@@ -54,6 +65,3 @@ Base link
 ##### Comment sont nommés les deux effecteurs finaux possibles ?
 moving tip et fixed tip
 ##### Avec rosrun tf tf_echo, déterminez quelle est la position actuel d'un effecteur dans le repère de base. Ses coordonnées peuvent vous servir pour les définir comme cible à atteindre par la suite.
-
-
-![Simulation d'obstacle](/IMG/obstacle.jpg)
