@@ -56,4 +56,4 @@ moving tip et fixed tip
 ##### Avec rosrun tf tf_echo, déterminez quelle est la position actuel d'un effecteur dans le repère de base. Ses coordonnées peuvent vous servir pour les définir comme cible à atteindre par la suite.
 
 
-![Simulation d'obstacle](obstacle.png)
+![Simulation d'obstacle](IMG/obstacle.png)
