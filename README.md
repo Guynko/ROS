@@ -8,7 +8,7 @@ Nous avons réussi a faire l'ensemble du TP Manipulation.
 
 ![Simulation d'obstacle](/IMG/obstacle2.jpg "Notre simulation avec obstacle")
 
-[![Robot en mouvement](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=CU4Dt2r_PFQ
+[![Lien vers la video du robot en mouvement](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=CU4Dt2r_PFQ
  "Robot en mouvement")
 
 ## Reponses aux question du TP Manipulation
