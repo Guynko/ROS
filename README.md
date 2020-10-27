@@ -1,4 +1,4 @@
-# Robot Operating System 
+# Robot Operating System
 Guy-Vianney Krakowiak, Baptiste Marlet, Alexandre
 
 
@@ -32,7 +32,7 @@ Le mode compliant permet de bouger le robot a la main sans resistance.
 
 ### 2.2.2. Planification
 ##### Que désigne le robot gris parfois mobile mais lent ?
-Le robot gris designe le robot dans sa position actuelle. 
+Le robot gris designe le robot dans sa position actuelle.
 ##### Que désigne le robot orange (fixe) ?
 Le robot orange est dans la position d'arrive apres le mouvement prevu.
 ##### Que désigne le robot gris qui répète infiniment un mouvement rapide ?
@@ -56,3 +56,4 @@ moving tip et fixed tip
 ##### Avec rosrun tf tf_echo, déterminez quelle est la position actuel d'un effecteur dans le repère de base. Ses coordonnées peuvent vous servir pour les définir comme cible à atteindre par la suite.
 
 
+![Simulation d'obstacle](obstacle.png)
